@@ -12,7 +12,7 @@ Most productivity apps give the same generic advice.
 **ProdForge learns YOU** — your energy patterns, your biggest blockers, your golden hours — and builds a plan that actually works.
 
 ### Live Demo  
-Try it now → https://yourusername-prodforge.streamlit.app
+Try it now → https://acatinahat1-prodforge.streamlit.app
 
 ### Features
 - Log planned vs actual tasks every day (2 clicks)
